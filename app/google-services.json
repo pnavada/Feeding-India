@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326000350322",
+    "firebase_url": "https://feeding-india-40d81.firebaseio.com",
+    "project_id": "feeding-india-40d81",
+    "storage_bucket": "feeding-india-40d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326000350322:android:363ac30b6ba880c4",
+        "android_client_info": {
+          "package_name": "com.android.dev.feedingindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326000350322-oijtr3r6r0ovolmu55b6h7i5moljf9sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.dev.feedingindia",
+            "certificate_hash": "d6e9512ecfce2607092992cfa8c4d092d84c848c"
+          }
+        },
+        {
+          "client_id": "326000350322-4n4890otnj2iv00scm98a2sjmjmt9hbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTS_Pg3kOXcX2JLvzaVkMk-7LggdMhX5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326000350322-4n4890otnj2iv00scm98a2sjmjmt9hbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
